@@ -1,5 +1,4 @@
-// write your code below!
-var name = "Joe"
+// write youJoe"
 var height = 74
 var message = ` is ${height} inches tall`
 
